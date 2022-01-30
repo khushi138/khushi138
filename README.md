@@ -4,9 +4,12 @@
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Khushi0016) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/khushiv)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Khushi0016) 
 
+## Stats
 ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi138&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi138&layout=compact)](https://github.com/khushi138/github-readme-stats)
 
 
