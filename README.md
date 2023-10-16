@@ -1,5 +1,4 @@
 ### Hello Folks 👋
-* I'm Khushi, **OpenSource enthusiast**
 * I'm currently learning **Web Development**
 
 📫 How to reach me:
