@@ -4,7 +4,7 @@
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Khushi0016) 
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/#) 
 
 ## Stats
 ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi138&show_icons=true&theme=radical)
